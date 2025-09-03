@@ -1,6 +1,5 @@
 # ETagSearcher
-ETagSearcher is a tool for extracting ETag from ransomwares with a website using the ransomware.live API.
-
+ETagSearcher is a tool for extracting ETags from ransomware with a website using the ransomware.live API. The found ETags will appear in the data.txt file.
 
 ## Install : 
 
